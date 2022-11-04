@@ -1,6 +1,6 @@
 # UNIVERSITY LUSOFONA REPOSITORY
 ---
-#### This repository is exclusive for work done at Lusófona University, in the videogames course.
+#### This repository is exclusive for my work done at University Lusófona, in the videogames course.
 ---
  ##### Name: Rafael David José 
  ##### Student Number: a22202078
