@@ -1,0 +1,5 @@
+Pistol
+
+The pistol is the player's default weapon, and fires bullets. Each player enters the game with a pistol, fifty bullets, and their fists, with the pistol selected as the active weapon. It uses the same ammunition as the chaingun. 
+
+None of the monsters carry a pistol, though the Zombieman appears to be armed with a rifle that fires pistol bullets. 

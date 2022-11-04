@@ -1,0 +1,5 @@
+Rocket Laucher
+
+The rocket launcher is used to fire rockets, missiles that fly in a straight line and explode when they hit anything solid. When picked up, the launcher contains two rockets (four at the I'm Too Young To Die and Nightmare! skill levels). 
+
+The Doom 3 Rocket Launcher is based on the Carl Gustaf recoilless rifle, as the Classic Doom rocket launcher has more of a late RPG design to it. 
