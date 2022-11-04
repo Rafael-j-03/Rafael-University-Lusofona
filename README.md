@@ -1,4 +1,3 @@
----
 # UNIVERSITY LUSOFONA REPOSITORY
 ---
 #### This repository is exclusive for work done at Lusófona University, in the videogames course.
