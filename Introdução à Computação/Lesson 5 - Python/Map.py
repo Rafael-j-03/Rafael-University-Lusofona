@@ -21,7 +21,7 @@ while command != "exit":
             y = y - 1
             print("\nYou are now in room " + map[y][x])
         else:
-            print ("\nYou can't go futher than that!")
+            print ("\nYou can't go further than that!")
 
     elif command == "south":
         # South movement
@@ -29,7 +29,7 @@ while command != "exit":
             y = y + 1
             print("\nYou are now in room " + map[y][x])
         else:
-            print ("\nYou can't go futher than that!")
+            print ("\nYou can't go further than that!")
 
     elif command == "east":
         # East movement
@@ -37,7 +37,7 @@ while command != "exit":
             x = x + 1
             print("\nYou are now in room " + map[y][x])
         else:
-            print ("\nYou can't go futher than that!")
+            print ("\nYou can't go further than that!")
 
     elif command == "west":
         #West movement
@@ -45,8 +45,9 @@ while command != "exit":
             x = x - 1
             print("\nYou are now in room " + map[y][x])
         else:
-            print ("\nYou can't go futher than that!")
-
+            print ("\nYou can't go further than that!")
+    elif command == "exit":
+        print("")
     else:
         print("Movement not available")
 
